@@ -28,11 +28,11 @@ const Contact = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">
-            Get In <span className="text-red-500">Touch</span>
+            Connect with <span className="text-red-500">Me</span>
           </h2>
           <div className="w-24 h-1 bg-red-500 mx-auto mb-6"></div>
           <p className="text-gray-300 text-lg max-w-2xl mx-auto">
-            Have a project in mind? Let's discuss how we can work together to bring your ideas to life.
+            I'm a recent Data Science graduate actively seeking opportunities to apply my skills in real-world challenges. Let's discuss how I can add value to your organization.
           </p>
         </div>
 
