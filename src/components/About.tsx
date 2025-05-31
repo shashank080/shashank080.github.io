@@ -14,7 +14,7 @@ const About = () => {
           {/* Bio Section */}
           <div>
             <h3 className="text-2xl font-bold text-white mb-6">
-              I'm Shashank, A Data Science Graduate Based in Maryland
+              I'm Shashank, A Data Science Graduate
             </h3>
             <p className="text-gray-300 text-lg leading-relaxed mb-6">
               I'm a graduate student who recently completed a Master's in Data Science. 
@@ -41,7 +41,7 @@ const About = () => {
                   <span className="text-white font-bold">MS</span>
                 </div>
                 <div>
-                  <h4 className="text-xl font-semibold text-white">Master of Science in Data Science</h4>
+                  <h4 className="text-xl font-semibold text-white">Master's in Data Science</h4>
                   <p className="text-red-500 font-medium">University of Maryland Baltimore County</p>
                   <p className="text-gray-400">May 2025</p>
                 </div>

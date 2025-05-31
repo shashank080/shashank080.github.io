@@ -22,9 +22,6 @@ const Hero = () => {
             <h2 className="text-2xl md:text-3xl lg:text-4xl font-light text-gray-300 mt-4">
               Data Science Graduate
             </h2>
-            <h3 className="text-xl md:text-2xl text-gray-400 mt-2">
-              Based In Maryland
-            </h3>
             
             <p className="text-lg text-gray-300 mt-6 max-w-2xl">
               Motivated data science graduate with expertise in ML, data engineering, and analytics. 
@@ -72,9 +69,11 @@ const Hero = () => {
             <div className="relative">
               <div className="w-80 h-80 lg:w-96 lg:h-96 rounded-full bg-gradient-to-br from-red-500 to-red-600 p-1">
                 <div className="w-full h-full rounded-full bg-gray-800 flex items-center justify-center overflow-hidden">
-                  <div className="w-full h-full bg-gradient-to-br from-red-500/20 to-teal-500/20 rounded-full flex items-center justify-center">
-                    <span className="text-6xl font-bold text-white">S</span>
-                  </div>
+                  <img 
+                    src="https://i.postimg.cc/pTqpZFXr/IMG-9267-2.jpg"
+                    alt="Shashank Raj Gupta Gunta"
+                    className="w-full h-full object-cover rounded-full"
+                  />
                 </div>
               </div>
               <div className="absolute -bottom-4 -right-4 bg-red-500 rounded-full p-3">
