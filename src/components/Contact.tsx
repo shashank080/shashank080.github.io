@@ -137,7 +137,7 @@ const Contact = () => {
               <h4 className="text-white font-semibold mb-4">Professional Links</h4>
               <div className="space-y-3">
                 <a 
-                  href="https://linkedin.com/in/shashankrajgupta" 
+                  href="https://www.linkedin.com/in/shashank-raj-gupta-gunta-523128221" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex items-center text-gray-300 hover:text-red-500 transition-colors duration-200"
@@ -146,7 +146,7 @@ const Contact = () => {
                   LinkedIn Profile
                 </a>
                 <a 
-                  href="https://github.com/shashankrajgupta" 
+                  href="https://github.com/shashank080?tab=repositories" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex items-center text-gray-300 hover:text-red-500 transition-colors duration-200"

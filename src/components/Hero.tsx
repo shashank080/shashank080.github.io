@@ -46,7 +46,7 @@ const Hero = () => {
             {/* Social Links */}
             <div className="flex gap-6 mt-8 justify-center lg:justify-start">
               <a 
-                href="https://github.com/shashankrajgupta"
+                href="https://github.com/shashank080?tab=repositories"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-red-500 transition-colors duration-200"
@@ -54,7 +54,7 @@ const Hero = () => {
                 <Github size={24} />
               </a>
               <a 
-                href="https://linkedin.com/in/shashankrajgupta"
+                href="https://www.linkedin.com/in/shashank-raj-gupta-gunta-523128221"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-red-500 transition-colors duration-200"
