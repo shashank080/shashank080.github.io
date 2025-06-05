@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This platform showcases my academic ba
 
 ## 🌐 Live Site
 
-[https://shashank080.github.io](https://shashank080.github.io) *(replace with your actual URL once deployed)*
+[https://shashank080.github.io](https://shashank080.github.io) 
 
 ## 📄 About
 
