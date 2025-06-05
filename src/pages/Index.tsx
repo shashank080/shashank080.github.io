@@ -4,8 +4,8 @@ import { ArrowDown, Github, Linkedin } from 'lucide-react';
 import Hero from '../components/Hero';
 import About from '../components/About';
 import Projects from '../components/Projects';
-import Technologies from '../components/Technologies';
 import Skills from '../components/Skills';
+import Technologies from '../components/Technologies';
 import Contact from '../components/Contact';
 import Navigation from '../components/Navigation';
 
@@ -14,7 +14,7 @@ const Index = () => {
 
   useEffect(() => {
     const handleScroll = () => {
-      const sections = ['home', 'about', 'projects', 'technologies', 'skills', 'contact'];
+      const sections = ['home', 'about', 'projects', 'skills', 'technologies', 'contact'];
       const scrollPosition = window.scrollY + 100;
 
       for (const section of sections) {
@@ -41,8 +41,8 @@ const Index = () => {
       <Hero />
       <About />
       <Projects />
-      <Technologies />
       <Skills />
+      <Technologies />
       <Contact />
     </div>
   );
