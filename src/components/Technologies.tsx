@@ -1,12 +1,12 @@
 
-import { Robot, Database, BarChart, Activity, Cloud, Brain } from 'lucide-react';
+import { Bot, Database, BarChart, Activity, Cloud, Brain } from 'lucide-react';
 
 const Technologies = () => {
   const technologies = [
     {
       title: "Artificial Intelligence",
       description: "Developing intelligent systems that simulate human thinking and decision-making, enabling automation and advanced problem-solving across various industries.",
-      icon: Robot,
+      icon: Bot,
       color: "from-orange-500 to-red-500"
     },
     {
