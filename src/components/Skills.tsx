@@ -1,3 +1,4 @@
+
 const Skills = () => {
   const skillCategories = [
     {
@@ -76,7 +77,7 @@ const Skills = () => {
         </div>
 
         {/* Skills Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16">
           {skillCategories.map((category, categoryIndex) => (
             <div key={categoryIndex} className="bg-gray-800 rounded-xl p-6 border border-gray-700">
               <h3 className="text-xl font-bold text-white mb-6">{category.title}</h3>
@@ -100,8 +101,8 @@ const Skills = () => {
           ))}
         </div>
 
-        {/* Experience Section */}
-        <div className="mt-16">
+        {/* Experience Section - moved after Skills Grid */}
+        <div>
           <h3 className="text-2xl font-bold text-white mb-8 text-center">Work Experience</h3>
           <div className="bg-gray-800 rounded-xl p-8 border border-gray-700">
             <div className="flex items-start space-x-4">
