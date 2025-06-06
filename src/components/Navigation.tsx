@@ -11,9 +11,9 @@ const Navigation = ({ activeSection }: NavigationProps) => {
   const navItems = [
     { id: 'home', label: 'Home' },
     { id: 'about', label: 'About' },
-    { id: 'projects', label: 'Projects' },
-    { id: 'skills', label: 'Skills' },
     { id: 'technologies', label: 'Technologies' },
+    { id: 'skills', label: 'Skills' },
+    { id: 'projects', label: 'Projects' },
     { id: 'contact', label: 'Contact' },
   ];
 
