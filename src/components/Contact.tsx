@@ -146,7 +146,7 @@ const Contact = () => {
                   LinkedIn Profile
                 </a>
                 <a 
-                  href="https://github.com/shashank080?tab=repositories" 
+                  href="https://github.com/shashankrajgupta526?tab=repositories" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex items-center text-gray-300 hover:text-red-500 transition-colors duration-200"
